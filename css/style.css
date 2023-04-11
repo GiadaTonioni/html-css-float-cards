@@ -33,12 +33,12 @@ h1 {
 
 .col {
     float:left;
-    margin: 10px;
-    width: calc(100% / 3 - 20px)
+    margin: 15px;
+    width: calc(100% / 3 - 30px)
 }
 
 .content {
-    background-color: rgb(0, 0, 86);
-    padding: 30px;
+    background-color: rgb(0, 0, 29);
+    padding: 40px;
     color: white;
 }
