@@ -52,6 +52,7 @@ span {
 .content {
     background-color: rgb(0, 0, 29);
     color: white;
+    box-shadow: 0px 0px 10px black;
 }
 
 img {
